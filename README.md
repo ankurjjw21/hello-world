@@ -1,5 +1,5 @@
 # hello-world
 First activity on GitHub
 
-Hello Felloe Humans
+Hello Fellow Humans
 I am Ankur
